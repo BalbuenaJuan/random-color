@@ -1,0 +1,11 @@
+body {
+  background: #87cefa;
+}
+.parrafito {
+  text-shadow: 2px 2px 2px #fff;
+}
+.grande {
+  width: 500px;
+  height: 400px;
+  background: #fff;
+}
