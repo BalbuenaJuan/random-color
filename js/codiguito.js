@@ -1,7 +1,7 @@
 function inicio(){
-    alert("Hola!!!");
     var boton = document.getElementById("boton");
     boton.addEventListener("click", cambiar);
+    console.log("Funciona???")
 }
 
 function cambiar(){
